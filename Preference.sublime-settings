@@ -17,7 +17,6 @@
     	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Package Control",
 		"Vintage"
 	],
 	"index_exclude_patterns":
